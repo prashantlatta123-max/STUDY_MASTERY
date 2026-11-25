@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "source": "RPSC official School Lecturer (School Education) Chemistry Paper-II syllabus PDF",
+  "sourceUrl": "https://rpsc.rajasthan.gov.in/Static/Syllabus/C3C3C454-7825-4F2A-9989-74D25582DA7D.pdf",
+  "subjects": [
+    {
+      "code": "CHEMISTRY",
+      "name": "Chemistry",
+      "subtitle": "RPSC School Lecturer · Paper II",
+      "isOfficial": true,
+      "units": [
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Atomic Structure",
+          "details": "Fundamental particles; modern atomic structure; quantum numbers; Aufbau principle; Pauli exclusion principle; Hund’s rule; electronic configuration; classification and periodicity; s, p, d and f block elements."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "p-Block Elements",
+          "details": "General introduction; electronic configuration; occurrence; oxidation states; compounds of p-block elements; trends in physical and chemical properties."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Transition Elements; Lanthanides and Actinides",
+          "details": "Transition elements; electronic configuration; oxidation states; absorption and charge-transfer spectra; magnetic properties; compounds; Werner theory; IUPAC nomenclature; isomerism; colour and stability of coordination compounds; lanthanides and actinides; ionic sizes; reactivity; applications of d- and f-block elements."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Solid State and Surface Chemistry",
+          "details": "Classification of solids; unit-cell density calculations; packing; point defects; electrical and magnetic properties; physical and chemical adsorption; catalysis; colloids and emulsions."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Solutions",
+          "details": "Types of solutions; solubility and concentration; vapour pressure; ideal and non-ideal solutions; colligative properties; molar-mass calculations; abnormal molecular mass; van’t Hoff factor."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Thermodynamics",
+          "details": "Thermodynamic terms; zeroth, first and second laws and applications; work and heat; spontaneity; Gibbs energy change and equilibrium."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Alkanes, Alkenes, Alkynes and Haloalkanes",
+          "details": "Methods of preparation and chemical reactions of alkanes, alkenes, alkynes and haloalkanes."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Alcohols, Aldehydes, Ketones, Carboxylic Acids and Derivatives",
+          "details": "Classification; nomenclature; preparation; physical properties; chemical reactions of alcohols, aldehydes, ketones, carboxylic acids and derivatives."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Halo, Nitro, Amino-Arenes and Diazonium Salts",
+          "details": "Preparations and chemical properties of halo, nitro and amino-arenes; diazonium salts and their synthetic applications."
+        },
+        {
+          "part": "Part I · Senior Secondary Level",
+          "name": "Biomolecules",
+          "details": "Carbohydrates; proteins; enzymes; vitamins; nucleic acids."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Chemical Bonding",
+          "details": "Theories of chemical bonding; valence-bond and molecular-orbital theories of diatomic molecules; VSEPR theory; hydrogen bonding; quantum mechanics; Schrödinger wave equation for one-electron systems."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Coordination Complexes",
+          "details": "Crystal-field theory for weak- and strong-field complexes; comparison of VB and CFT; factors affecting 10 Dq; thermodynamic aspects; Jahn–Teller effect; importance and applications."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Chemistry of Lanthanides and Actinides",
+          "details": "Lanthanide and actinide contraction and consequences; coordination behaviour; magnetic and spectroscopic properties; separation of lanthanides."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Chemical Dynamics",
+          "details": "Rate and factors affecting reactions; zero-, first-, pseudo-first- and second-order reactions; half-life; order determination; collision and transition-state theories; Arrhenius equation; activation energy."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Electrochemistry",
+          "details": "Conductance; equivalent and molar conductivity; dilution effects; electrodes; SHE; electrochemical and galvanic cells; strong-electrolyte theory; Debye–Hückel theory; Nernst equation; ionic equilibria; fuel and concentration cells; corrosion."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Enthalpy and Entropy",
+          "details": "Enthalpy changes; reaction enthalpies; entropy as a function of temperature and volume; Hess’s law; Gibbs and Helmholtz functions."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Stereochemistry of Organic Compounds",
+          "details": "Chirality; optical activity; geometrical and optical isomerism; enantiomers; diastereomers; meso compounds; R/S and E/Z nomenclature; resolution; inversion; retention; racemisation; conformations of ethane, butane and cyclohexane."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Reaction Intermediates and Name Reactions",
+          "details": "Free radicals; carbocations; carbanions; carbenes; benzyne; nitrene; mechanisms of Aldol, Cannizzaro, Perkin, Stobbe, Benzoin, Reformatsky, Knoevenagel, Baeyer–Villiger, Wittig and Mannich reactions."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Aromaticity and Arenes",
+          "details": "Aromaticity; nomenclature and isomerism; benzene and alkyl-arenes; structure and properties; electrophilic substitution; directing effects; pyridine, pyrrole, furan and thiophene."
+        },
+        {
+          "part": "Part II · Graduation Level",
+          "name": "Polymers and Drugs",
+          "details": "Polymers; types and mechanisms of polymerisation; natural and synthetic polymers; antacids; antihistamines; analgesics; antipyretics; antibiotics; antifertility drugs."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Molecular Orbital Theory",
+          "details": "Symmetry elements and operations; point groups; Mulliken symbols; group theory and character tables; MO theory of heteronuclear diatomic and polyatomic molecules (AX2, AX3, AX4)."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Organometallic Compounds",
+          "details": "Organometallic compounds of Li, Mg, Sn, Fe, Cu and Zn; structure, bonding and applications; metal carbonyls; cage and cluster compounds; organometallic reagents in catalysis and organic synthesis."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Kinetics and Catalysis",
+          "details": "Photochemical and polymerisation kinetics; acid-base and enzyme catalysis; ionic reactions; kinetic salt effect; complex reactions."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Electrochemistry",
+          "details": "EMF measurement; Kohlrausch’s law and applications; membrane equilibria; calculation of ΔH, ΔG, ΔS and equilibrium constant from EMF data."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Thermodynamics",
+          "details": "Third law; Joule–Thomson experiment; Maxwell relations and applications; Gibbs–Duhem equation; fugacity and activity."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Substitution and Elimination Reactions",
+          "details": "SN1, SN2, SNi, E1 and E2 reactions of haloalkanes; preparation and chemical reactions of phenols, ethers and epoxides."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Pericyclic Reactions",
+          "details": "Electrocyclic, cycloaddition and sigmatropic rearrangements; photo-organic chemistry of alkenes and carbonyl compounds."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Environmental Pollution",
+          "details": "Air, water and soil pollution; heavy metals; photochemical smog; acid rain; ozone depletion; greenhouse effect; global warming; green chemistry principles."
+        },
+        {
+          "part": "Part III · Post Graduation Level",
+          "name": "Spectroscopy",
+          "details": "Elementary principles of IR, UV, NMR, Raman, ESR and mass spectrometry; structure elucidation of organic compounds."
+        },
+        {
+          "part": "Part IV · Pedagogy and ICT",
+          "name": "Pedagogy and Teaching Learning Material",
+          "details": "Instructional strategies for adolescent learners; verbal and non-verbal classroom communication; advance organiser, inquiry training, group investigation and non-directive teaching models; preparation and use of teaching-learning material; cooperative learning."
+        },
+        {
+          "part": "Part IV · Pedagogy and ICT",
+          "name": "Use of Computers and ICT in Teaching-Learning",
+          "details": "ICT and digital learning; e-learning and virtual classrooms; technology integration in teaching-learning and assessment."
+        }
+      ]
+    },
+    {
+      "code": "RPSC_PAPER_I",
+      "name": "RPSC Paper I · General Awareness & General Studies",
+      "subtitle": "Common Paper I · 150 Marks",
+      "isOfficial": true,
+      "units": [
+        {
+          "part": "Paper I",
+          "name": "Rajasthan and Indian History",
+          "details": "History of Rajasthan and Indian history with special emphasis on the Indian National Movement."
+        },
+        {
+          "part": "Paper I",
+          "name": "Mental Ability, Statistics, Mathematics and Languages",
+          "details": "Mental ability; secondary-level statistics and mathematics; Hindi and English language ability."
+        },
+        {
+          "part": "Paper I",
+          "name": "Current Affairs",
+          "details": "Current affairs relevant to the examination; maintain dated notes and verify facts from reliable sources."
+        },
+        {
+          "part": "Paper I",
+          "name": "General Science, Indian Polity and Rajasthan Geography",
+          "details": "General science; Indian polity; geography of Rajasthan."
+        },
+        {
+          "part": "Paper I",
+          "name": "Educational Management and Rajasthan Education Scenario",
+          "details": "Educational management; educational scenario in Rajasthan; Right to Education Act, 2009."
+        }
+      ]
+    }
+  ]
+}
